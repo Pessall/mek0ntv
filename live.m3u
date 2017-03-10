@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1,-------MEK0NTV-------
+#EXTINF:-1,NEWS 8
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/1.mpegts
+#EXTINF:-1,ABC 27 NEWS
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/4.mpegts
+#EXTINF:-1,A&E HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/2.mpegts
+#EXTINF:-1,E! HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/5.mpegts
+#EXTINF:-1,TNT HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/10.mpegts
+#EXTINF:-1,Fox 43 HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/6.mpegts
+#EXTINF:-1,TLC USA HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/11.mpegts
+#EXTINF:-1,TRU TV HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/14.mpegts
+#EXTINF:-1,HALLMARK CHANNEL
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/13.mpegts
+#EXTINF:-1,OWN HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/12.mpegts
+#EXTINF:-1,OWN HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/15.mpegts
+#EXTINF:-1,BBC AMERICA
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/16.mpegts
+#EXTINF:-1,CITY HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/17.mpegts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/19.mpegts
+#EXTINF:-1,LIFETIME HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/20.mpegts
+#EXTINF:-1,HBO HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/18.mpegts
+#EXTINF:-1,SHBO 2 HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/22.mpegts
+#EXTINF:-1,HBO ZONE HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/23.mpegts
+#EXTINF:-1,SHOWCASE
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/30.mpegts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF:-1,FOX SPORTS 1 HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF:-1,NBA TV HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/52.mpegts
+#EXTINF:-1,NFL NOW HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/55.mpegts
+#EXTINF:-1,WWWE NETWORK HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/57.mpegts
+#EXTINF:-1,TSN 1 HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/58.mpegts
+#EXTINF:-1,TSN 4 HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/62.mpegts
+#EXTINF:-1,SPORTSNET ONE HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/61.mpegts
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/67.mpegts
+#EXTINF:-1,CNN LIVE HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/68.mpegts
+#EXTINF:-1,FOX NEWS
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/72.mpegts
+#EXTINF:-1,ABC NEWS
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/73.mpegts
+#EXTINF:-1,HISTORY HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/75.mpegts
+#EXTINF:-1,H 2
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/76.mpegts
+#EXTINF:-1,NAT GEO HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/77.mpegts
+#EXTINF:-1,ANIMAL PLANET
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/79.mpegts
+#EXTINF:-1,NAT GEO WILD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/78.mpegts
+#EXTINF:-1,ID
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/80.mpegts
+#EXTINF:-1,VELOCITY
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/81.mpegts
+#EXTINF:-1,LOVE NATURE
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/82.mpegts
+#EXTINF:-1,HGTV
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/84.mpegts
+#EXTINF:-1,FOOD NETWORK HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/83.mpegts
+#EXTINF:-1,DIY NETWORK
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/85.mpegts
+#EXTINF:-1,BRAVO HD
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/86.mpegts
+#EXTINF:-1,FX HD
+http://50.7.69.42:8899/GB/USA/FX_HD/index.m3u8
+#EXTINF:-1,FXX HD
+http://50.7.69.42:8899/GB/USA/FXX_HD/index.m3u8
+#EXTINF:-1,PBS HD
+http://50.7.69.42:8899/GB/USA/PBS_HD/index.m3u8
+#EXTINF:-1,HBO ZONE HD
+http://50.7.69.42:8899/GB/USA/HBO_Zone_HD/index.m3u8
+#EXTINF:-1,ALIBI UK HD
+http://50.7.69.42:8899/GB/UK/ALIBI_HD/index.m3u8
+#EXTINF:-1,DAVE UK HD
+http://50.7.69.42:8899/GB/UK/DAVE_HD/index.m3u8
+#EXTINF:-1,NAT GEO WILD UK HD
+http://50.7.69.42:8899/GB/UK/NAT_GEO_WILD_HD/index.m3u8
+#EXTINF:-1,NAT GEO UK HD
+http://50.7.69.42:8899/GB/UK/NAT_GEO_HD/index.m3u8
+#EXTINF:-1,SKY LIVING UK HD
+http://50.7.69.42:8899/GB/UK/SKY_LIVING_HD/index.m3u8
+#EXTINF:-1,TLC UK HD
+http://50.7.69.42:8899/GB/UK/TLC_HD/index.m3u8
+#EXTINF:-1,ANIMAL PLANET UK HD
+http://50.7.69.42:8899/GB/UK/ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:-1,FOX UK HD
+http://50.7.69.42:8899/GB/UK/FOX_HD/index.m3u8
+#EXTINF:-1,E4 UK HD
+http://50.7.69.42:8899/GB/UK/E4_HD/index.m3u8
+#EXTINF:-1,NICK HD
+http://50.7.69.42:8899/GB/USA/NICK_HD/index.m3u8
+#EXTINF:-1,FREEFORM HD 
+http://50.7.69.42:8899/GB/USA/FreeForm_HD/index.m3u8
+#EXTINF:-1,BOXNATION
+http://50.7.69.42:8899/GB/UK/BOXNATION/index.m3u8
+#EXTINF:-1,BET HD 
+http://50.7.69.42:8899/GB/UK/BET/index.m3u8
+#EXTINF:-1,ABC
+http://50.7.69.42:8899/GB/USA/ABC_HD/index.m3u8
+#EXTINF:-1,DMAX
+http://50.7.69.42:8899/GB/UK/DMAX/index.m3u8
+#EXTINF:-1,TBS
+http://50.7.69.42:8899/GB/USA/TBS_HD/index.m3u8
+#EXTINF:-1,HGTV
+http://50.7.69.42:8899/GB/CA/HGTV_HD/index.m3u8
+#EXTINF:-1,HISTORY UK
+http://50.7.69.42:8899/GB/USA/HISTORY_HD/index.m3u8?
+#EXTINF:-1,HISTORY 2 UK
+http://50.7.69.42:8899/GB/USA/H2_HD/index.m3u8?
+#EXTINF:-1,DISCOVERY UK
+http://50.7.69.42:8899/GB/UK/DISCOVERY_SHED/index.m3u8
+#EXTINF:-1,DISCOVERY +1
+http://uk4all.mine.nu:8888/lsi_Discovery/index.m3u8?
+#EXTINF:-1,WATCH UK
+http://50.7.69.42:8899/GB/UK/W_HD/index.m3u8?
+#EXTINF:-1,CW HD
+http://50.7.69.42:8899/GB/USA/CW_HD/index.m3u8?
+#EXTINF:-1,FOX USA HD
+http://50.7.69.42:8899/GB/USA/FOX_HD/index.m3u8?
+#EXTINF:-1,HBO USA HD
+http://50.7.69.42:8899/GB/USA/HBO_HD/index.m3u8?
+#EXTINF:-1,AMC HD
+http://50.7.69.42:8899/GB/USA/AMC_HD/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://50.7.69.42:8899/GB/USA/UNIVERSAL_HD/index.m3u8
+#EXTINF:-1,REALLY UK HD
+http://50.7.69.42:8899/GB/UK/REALLY/index.m3u8?
+#EXTINF:-1,CHALLENGE UK HD
+http://50.7.69.42:8899/GB/UK/CHALLENGE/index.m3u8?
+#EXTINF:-1,CINEMAX HD
+http://50.7.69.42:8899/GB/USA/Cinemax_ThrillerMax_HD/index.m3u8?
+#EXTINF:-1,BEIN SPORT 1 HD
+http://198.255.76.122:8080/RTMP-bein1/index.m3u8
+#EXTINF:-1,BEINS SPORT 2 HD
+http://198.255.76.122:8080/RTMP-bein2/index.m3u8
+#EXTINF:-1,BEIN SPORT 3 HD
+http://198.255.76.122:8080/RTMP-bein3/index.m3u8
+#EXTINF:-1,BEIN SPORT 4 HD
+http://198.255.76.122:8080/RTMP-bein4/index.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://163.172.219.191:3135/Sports/1/index.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://163.172.219.191:3135/Sports/2/index.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://163.172.219.191:3135/Sports/3/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://163.172.219.191:3135/Sports/4/index.m3u8
+#EXTINF:-1,SKY SPORTS 5
+http://163.172.219.191:3135/Sports/5/index.m3u8
